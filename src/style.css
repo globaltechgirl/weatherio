@@ -62,6 +62,11 @@ html {
     font-weight: bold;
     margin-left: 10%;
   }
+
+  .icon img{
+    width: 200px;
+    height: 200px;
+  }
   
   .weather-app-unit {
     margin-top: 6px;
