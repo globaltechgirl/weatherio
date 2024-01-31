@@ -12,31 +12,39 @@
 </head>
 <body>
     <div class="weather-app">
-        <header>
+        <div class="weather-main">
             <div class="weather-logo">
-                 <a href="#" class="logo">
-                    <img src="./image/weather (1).png" alt="" width="50">
-                </a>
-                <p>weatherio</p>
+                <a href="#" class="logo">
+                   <img src="./image/weather (1).png" alt="" width="50">
+               </a>
+               <p>weatherio</p>
+           </div>
+
+           <div class="weather-app-data">
+            <div>
+                <div class="weather-app-temperature-container">
+                    <div id="icon"><img src="./image/weather (1).png" alt="" width="200"></div>
+                    <div class="weather-app-temp-details">
+                        <div class="weather-app-temperature" id="temperature">12</div>
+                        <div class="weather-app-unit">°C</div>
+                    </div>
+                </div>
+
+                <h1 class="weather-app-city" id="city">Paris</h1>
+                <p class="weather-app-details">
+                    <span class="time" id="time">Wednesday 19:20</span>
+                        <br/> <br/>
+                    <span id="description"><i class="bx bxl-google-cloud"></i> clear sky</span>
+                        <br/> <br/> 
+                    <span><i class="bx bx-droplet"></i> Humidity: <strong id="humidity">81%</strong> 
+                        <br/> <br/>
+                        <i class="bx bx-wind"></i> Wind:
+                    <strong id="wind-speed">3.09km/h</strong></span>
+                </p>
             </div>
-           
-
-            <form class="search-form" id="search-form">
-                <input 
-                    type="search" 
-                    name="search" 
-                    placeholder="Search city..." 
-                    required
-                    size="45"
-                    autocomplete="off" 
-                    class="search-form-input"
-                    id="search-form-input"
-                />
-
-                <button type="submit" class="search-form-button"> <i class="bx bx-search"></i> </button>
-                  
-            </form>
-        </header> 
+          </div>
+          <div class="weather-forecast" id="forecast"></div>
+        </div> 
 
         <div class="user">
             <div class="user-header">
