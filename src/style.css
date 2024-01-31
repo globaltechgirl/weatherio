@@ -144,6 +144,44 @@ form button {
     margin-top: 1%;
 }
 
+.weather-forecast {
+    display: flex;
+    justify-content: space-around;
+    margin-top: -35rem;
+    margin-left: 20rem;
+    flex-wrap: wrap; 
+    height: 60vh;
+    width: 220%;
+    padding: 40px;
+    background-color: #dad4ec;
+    border-radius: 50px;
+    gap: 2.2rem;
+  }
+  
+  .weather-forecast-icon {
+    width: 150px;
+    flex: 0 0 calc(25% - 20px);
+    height: 150px;
+  }
+
+  .weather-forecast-date {
+    text-align: center;
+    color: rgba(39, 33, 66, 0.4);
+    font-size: 20px;
+  }
+
+  .weather-forecast-temperatures {
+    text-align: center;
+    color: #272044;
+    display: flex;
+    font-size: 18px;
+    justify-content: center;
+  }
+  
+  .weather-forecast-temperature {
+    padding: 0 10px;
+  }
+
 .user {
     margin-left: 75%;
     width: 23%;

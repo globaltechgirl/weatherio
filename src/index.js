@@ -71,7 +71,7 @@ function refreshWeather(response) {
     let forecastHtml = "";
   
     response.data.daily.forEach(function (day, index) {
-      if (index < 5) {
+      if (index < 7) {
         forecastHtml =
           forecastHtml +
           `
