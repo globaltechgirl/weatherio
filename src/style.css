@@ -92,7 +92,7 @@ form button {
     height: 85vh;
     margin-top: -5.5%;
     border-radius: 50px;
-    padding-top: 4%;
+    padding-top: 3.5%;
     box-shadow: 10px 10px 20px -10px #cfd0ec, -10px -10px 20px -10px #cfd0ec;
 }
 
@@ -104,6 +104,7 @@ form button {
 
 .user-image {
     background-color: #cfd0ec;
+    border: 2px solid #EAE6F2;
     width: 65%;
     border-radius: 50px;
     position: relative;
@@ -124,3 +125,65 @@ form button {
     font-size: 30px;
 }
 
+.goto {
+    display: flex;
+    margin-top: 8%;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.goto h3 {
+    border: 2px solid #272044;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 15px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.goto h3:hover {
+    background-color: #cfd0ec;
+    border: 2px solid #EAE6F2;
+    cursor: pointer;
+}
+
+.goto p {
+    background-color: #cfd0ec;
+    height: 50%;
+    padding: 10px;
+    font-size: 20px;
+    border: 2px solid #EAE6F2;
+    border-radius: 10px;
+}
+
+.quotes {
+    margin-top: 11%;
+    display: flex;
+    gap: 1rem;
+    background-color: #cfd0ec;
+    padding: 10px;
+    border-radius: 20px;
+    width: 90%;
+    margin-left: 5%;
+    padding-top: 1px;
+    background: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
+    justify-content: center;
+}
+
+.quotes .left {
+    font-size: 40px;
+}
+
+.quotes p {
+    width: 60%;
+    font-style: italic;
+    text-align: center;
+    font-size: 13px;
+    margin-top: 8%;
+}
+
+.quotes .right {
+    font-size: 40px;
+    margin-top: 15%;
+}
