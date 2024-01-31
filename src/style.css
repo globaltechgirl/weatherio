@@ -93,6 +93,7 @@ html {
 
 .weather-app-details span {
     margin-left: 3%;
+    font-weight: 500;
 }
 
 .weather-app-details strong {
@@ -110,7 +111,7 @@ form {
     border-radius: 50px;
     background-color: #f7f3ff;
     margin-top: -45%;
-    margin-left: 26%;
+    margin-left: 25%;
     height: 6vh;
 }
 
@@ -153,9 +154,10 @@ form button {
     height: 60vh;
     width: 220%;
     padding: 40px;
-    background-color: #dad4ec;
+    background-color: #eaeaf4;
     border-radius: 50px;
     gap: 2.2rem;
+    box-shadow: 10px 10px 20px -10px #4d4474, -10px -10px 20px -10px #4d4474;
   }
   
   .weather-forecast-icon {
@@ -168,6 +170,7 @@ form button {
     text-align: center;
     color: rgba(39, 33, 66, 0.4);
     font-size: 20px;
+    font-weight: 500;
   }
 
   .weather-forecast-temperatures {
@@ -186,7 +189,7 @@ form button {
     margin-left: 75%;
     width: 23%;
     height: 85vh;
-    margin-top: -5.6%;
+    margin-top: -4.6%;
     border-radius: 50px;
     padding-top: 3.5%;
     box-shadow: 10px 10px 20px -10px #cfd0ec, -10px -10px 20px -10px #cfd0ec;
@@ -282,4 +285,10 @@ form button {
 .quotes .right {
     font-size: 40px;
     margin-top: 15%;
+}
+
+footer {
+    text-align: center;
+    margin-right: 8%;
+    margin-top: -2%;
 }
