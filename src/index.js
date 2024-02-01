@@ -100,3 +100,13 @@ function refreshWeather(response) {
   searchFormElement.addEventListener("submit", handleSearchSubmit);
   
   searchCity("Paris");
+
+  function changeDetails() {
+    let userNameInput = prompt("Enter your full name:");
+    let userCareerInput = prompt("Enter your career choice:");
+
+    document.getElementById("userName").innerHTML = userNameInput;
+    document.getElementById("userCareer").innerHTML = userCareerInput;
+}
+
+window.onload = changeDetails;
