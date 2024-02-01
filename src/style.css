@@ -79,7 +79,7 @@ html {
     line-height: 38px;
     font-weight: 400;
     margin-left: 3%;
-    margin-top: 1%;
+    margin-top: 3%;
 }
 
 .weather-app-details {
@@ -88,7 +88,7 @@ html {
     border-radius: 15px;
     background-color: #eaeaf4;
     width: 70%;
-    padding: 15px;
+    padding: 20px;
 }
 
 .weather-app-details span {
