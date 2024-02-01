@@ -208,7 +208,7 @@ form button {
     width: 60%;
     border-radius: 50px;
     position: relative;
-    margin-left: 19.5%;
+    margin-left: 20.5%;
 }
 
 .user-image img {
@@ -231,7 +231,7 @@ form button {
 
 .goto {
     display: flex;
-    margin-top: 10%;
+    margin-top: 8%;
     justify-content: center;
     gap: 0.6rem;
 }
@@ -262,14 +262,14 @@ form button {
 }
 
 .quotes {
-    margin-top: 6%;
+    margin-top: 8%;
     display: flex;
     gap: 0.6rem;
     background-color: #cfd0ec;
     padding: 7px;
     border-radius: 20px;
     width: 80%;
-    margin-left: 5%;
+    margin-left: 10%;
     padding-top: 1px;
     background: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
     justify-content: center;
