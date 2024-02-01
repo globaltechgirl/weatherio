@@ -205,7 +205,7 @@ form button {
 .user-image {
     background-color: #cfd0ec;
     border: 2px solid #EAE6F2;
-    width: 65%;
+    width: 60%;
     border-radius: 50px;
     position: relative;
     margin-left: 15.5%;
@@ -222,11 +222,11 @@ form button {
 
 .user-info h3 {
     margin-bottom: 2%;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .user-info p {
-    font-size: 16px;
+    font-size: 15px;
 }
 
 .goto {
@@ -239,8 +239,8 @@ form button {
 .goto h3 {
     border: 2px solid #272044;
     padding: 8px;
-    padding-left: 12px;
-    padding-right: 12px;
+    padding-left: 13px;
+    padding-right: 13px;
     border-radius: 15px;
     font-size: 12px;
     font-weight: 500;
@@ -264,11 +264,11 @@ form button {
 .quotes {
     margin-top: 6%;
     display: flex;
-    gap: 1rem;
+    gap: 0.6rem;
     background-color: #cfd0ec;
-    padding: 10px;
+    padding: 7px;
     border-radius: 20px;
-    width: 90%;
+    width: 60%;
     margin-left: 5%;
     padding-top: 1px;
     background: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
@@ -276,11 +276,11 @@ form button {
 }
 
 .quotes .left {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .quotes p {
-    width: 40%;
+    width: 50%;
     font-style: italic;
     text-align: center;
     font-size: 10px;
@@ -288,7 +288,7 @@ form button {
 }
 
 .quotes .right {
-    font-size: 40px;
+    font-size: 30px;
     margin-top: 15%;
 }
 
