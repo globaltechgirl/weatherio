@@ -58,7 +58,7 @@ html {
 
 .weather-app-temperature {
     font-size: 88px;
-    line-height: 88px;
+    line-height: 60px;
     font-weight: bold;
     margin-left: 10%;
   }
@@ -83,7 +83,7 @@ html {
 }
 
 .weather-app-details {
-    margin-top: 5%;
+    margin-top: 3%;
     font-size: 17px;
     border-radius: 15px;
     background-color: #eaeaf4;
@@ -110,7 +110,7 @@ form {
     width: 40%;
     border-radius: 50px;
     background-color: #f7f3ff;
-    margin-top: -45%;
+    margin-top: -35%;
     margin-left: 25%;
     height: 6vh;
 }
