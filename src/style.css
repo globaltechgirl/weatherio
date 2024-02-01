@@ -205,7 +205,7 @@ form button {
 .user-image {
     background-color: #cfd0ec;
     border: 2px solid #EAE6F2;
-    width: 60%;
+    width: 65%;
     border-radius: 50px;
     position: relative;
     margin-left: 15.5%;
@@ -238,11 +238,11 @@ form button {
 
 .goto h3 {
     border: 2px solid #272044;
-    padding: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding: 8px;
+    padding-left: 12px;
+    padding-right: 12px;
     border-radius: 15px;
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 500;
 }
 
@@ -254,15 +254,15 @@ form button {
 
 .goto p {
     background-color: #cfd0ec;
-    height: 40%;
-    padding: 10px;
-    font-size: 15px;
+    height: 35%;
+    padding: 8px;
+    font-size: 13px;
     border: 2px solid #EAE6F2;
     border-radius: 10px;
 }
 
 .quotes {
-    margin-top: 8%;
+    margin-top: 6%;
     display: flex;
     gap: 1rem;
     background-color: #cfd0ec;
