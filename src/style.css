@@ -40,15 +40,15 @@ html {
 }
 
 .weather-logo p{
-    font-size: 20px;
+    font-size: 18px;
     margin-top: 0.8rem;
     font-weight: 500;
-    margin-left: 0.5rem;
+    margin-left: 0.4rem;
 }
 
 .weather-app-data {
     margin-top: 2%;
-    margin-left: 6%;
+    margin-left: 8%;
 }
 
 .weather-app-temp-details {
@@ -60,7 +60,7 @@ html {
     font-size: 60px;
     line-height: 60px;
     font-weight: bold;
-    margin-left: 6%;
+    margin-left: 8%;
   }
 
   .icon img{
@@ -87,7 +87,7 @@ html {
     font-size: 15px;
     border-radius: 15px;
     background-color: #eaeaf4;
-    width: 80%;
+    width: 70%;
     padding: 15px;
 }
 
