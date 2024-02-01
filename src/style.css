@@ -262,14 +262,14 @@ form button {
 }
 
 .quotes {
-    margin-top: 8%;
+    margin-top: 10%;
     display: flex;
     gap: 0.6rem;
     background-color: #cfd0ec;
     padding: 7px;
     border-radius: 20px;
     width: 80%;
-    margin-left: 12%;
+    margin-left: 11%;
     padding-top: 1px;
     background: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
     justify-content: center;
@@ -296,5 +296,5 @@ footer {
     text-align: center;
     margin-right: 8%;
     font-size: 10px;
-    margin-top: -2.5%;
+    margin-top: -2%;
 }
