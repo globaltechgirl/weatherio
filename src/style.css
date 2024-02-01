@@ -164,7 +164,7 @@ form button {
   .weather-forecast-icon {
     width: 100px;
     flex: 0 0 calc(25% - 20px);
-    height: 100px;
+    height: 93px;
   }
 
   .weather-forecast-date {
