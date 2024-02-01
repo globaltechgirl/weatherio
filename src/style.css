@@ -20,10 +20,10 @@ html {
     color: #272044;
     border-radius: 28px;
     padding: 16px;
-    max-width: 1200px;
-    margin: 45px auto 0; 
+    max-width: 1600px;
+    margin: 38px auto 0; 
     width: 90%;
-    height: 80vh;
+    height: 90vh;
 }
 
 .weather-main {
