@@ -150,22 +150,22 @@ form button {
 .weather-forecast {
     display: flex;
     justify-content: space-around;
-    margin-top: -35rem;
-    margin-left: 20rem;
-    flex-wrap: wrap; 
+    margin-top: -25rem;
+    margin-left: 15rem;
+    flex-wrap: wrap;
     height: 60vh;
-    width: 220%;
+    width: 150%;
     padding: 40px;
     background-color: #eaeaf4;
     border-radius: 50px;
-    gap: 2.2rem;
+    gap: 1.2rem;
     box-shadow: 10px 10px 20px -10px #4d4474, -10px -10px 20px -10px #4d4474;
-  }
+}
   
   .weather-forecast-icon {
-    width: 150px;
+    width: 100px;
     flex: 0 0 calc(25% - 20px);
-    height: 150px;
+    height: 100px;
   }
 
   .weather-forecast-date {
@@ -179,12 +179,12 @@ form button {
     text-align: center;
     color: #272044;
     display: flex;
-    font-size: 18px;
+    font-size: 14px;
     justify-content: center;
   }
   
   .weather-forecast-temperature {
-    padding: 0 10px;
+    padding: 0 8px;
   }
 
 .user {
@@ -296,6 +296,5 @@ form button {
 footer {
     text-align: center;
     margin-right: 8%;
-    margin-top: -2%;
-    font-size: 15px;
+    font-size: 8px;
 }
