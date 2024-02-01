@@ -112,7 +112,7 @@ form {
     border-radius: 50px;
     background-color: #f7f3ff;
     margin-top: -42%;
-    margin-left: 28%;
+    margin-left: 30%;
     height: 6vh;
 }
 
@@ -122,7 +122,7 @@ form input {
     background: transparent;
     border: 2px solid transparent; 
     outline: none;
-    font-size: 13px;
+    font-size: 12px;
     margin-top: -5%;
     color: #272044 !important;
     font-weight: 500 !important;
@@ -130,7 +130,7 @@ form input {
 }
 
 form input::placeholder {
-    font-size: 13px;
+    font-size: 12px;
     color: rgba(39, 33, 66, 0.4) !important;
     font-weight: 500 !important;
     font-family: "Rubik";
@@ -289,7 +289,7 @@ form button {
 
 .quotes .right {
     font-size: 30px;
-    margin-top: 15%;
+    margin-top: 12%;
 }
 
 footer {
