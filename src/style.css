@@ -271,6 +271,7 @@ form button {
     width: 80%;
     margin-left: 11%;
     padding-top: 1px;
+    padding-bottom: 1px;
     background: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
     justify-content: center;
 }
