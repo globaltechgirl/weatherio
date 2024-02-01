@@ -208,15 +208,15 @@ form button {
     width: 60%;
     border-radius: 50px;
     position: relative;
-    margin-left: 17.5%;
+    margin-left: 19.5%;
 }
 
 .user-image img {
-    margin-left: 5%;
+    margin-left: 6%;
 }
 
 .user-info {
-    margin-top: 5%;
+    margin-top: 8%;
     text-align: center;
 }
 
@@ -268,7 +268,7 @@ form button {
     background-color: #cfd0ec;
     padding: 7px;
     border-radius: 20px;
-    width: 60%;
+    width: 80%;
     margin-left: 5%;
     padding-top: 1px;
     background: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
