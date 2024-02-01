@@ -99,7 +99,7 @@ function refreshWeather(response) {
   let searchFormElement = document.querySelector("#search-form");
   searchFormElement.addEventListener("submit", handleSearchSubmit);
   
-  searchCity("Paris");
+  searchCity("Nigeria");
 
   function changeDetails() {
     let userNameInput = prompt("Enter your full name:");
