@@ -154,7 +154,7 @@ form button {
     margin-left: 15rem;
     flex-wrap: wrap;
     height: 60vh;
-    width: 150%;
+    width: 180%;
     padding: 40px;
     background-color: #eaeaf4;
     border-radius: 50px;
@@ -171,7 +171,7 @@ form button {
   .weather-forecast-date {
     text-align: center;
     color: rgba(39, 33, 66, 0.4);
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 500;
   }
 
@@ -296,5 +296,5 @@ form button {
 footer {
     text-align: center;
     margin-right: 8%;
-    font-size: 8px;
+    font-size: 14px;
 }
