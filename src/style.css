@@ -124,7 +124,7 @@ form input {
     outline: none;
     font-size: 13px;
     margin-top: -5%;
-    color: rgba(39, 33, 66, 0.4) !important;
+    color: #272044 !important;
     font-weight: 500 !important;
     font-family: "Rubik";
 }
@@ -205,7 +205,7 @@ form button {
 .user-image {
     background-color: #cfd0ec;
     border: 2px solid #EAE6F2;
-    width: 50%;
+    width: 60%;
     border-radius: 50px;
     position: relative;
     margin-left: 15.5%;
@@ -231,7 +231,7 @@ form button {
 
 .goto {
     display: flex;
-    margin-top: 5%;
+    margin-top: 10%;
     justify-content: center;
     gap: 0.6rem;
 }
@@ -262,7 +262,7 @@ form button {
 }
 
 .quotes {
-    margin-top: 5%;
+    margin-top: 8%;
     display: flex;
     gap: 1rem;
     background-color: #cfd0ec;
