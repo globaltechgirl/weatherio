@@ -109,4 +109,11 @@ function refreshWeather(response) {
     document.getElementById("userCareer").innerHTML = userCareerInput;
 }
 
+function getUserInput(promptMessage) {
+  return new Promise(resolve => {
+      let userInput = prompt(promptMessage);
+      resolve(userInput);
+  });
+}
+
 window.onload = changeDetails;
