@@ -40,7 +40,7 @@ html {
 
 .weather-logo p{
     font-size: 18px;
-    margin-top: 0.8rem;
+    margin-top: 0.6rem;
     font-weight: 500;
     margin-left: 0.4rem;
 }
@@ -111,7 +111,7 @@ form {
     width: 32%;
     border-radius: 50px;
     background-color: #f7f3ff;
-    margin-top: -45%;
+    margin-top: -43%;
     margin-left: 28%;
     height: 6vh;
 }
