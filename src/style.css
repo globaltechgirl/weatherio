@@ -109,10 +109,10 @@ html {
 
 form {
     border: 2px solid #EAE6F2;
-    width: 40%;
+    width: 32%;
     border-radius: 50px;
     background-color: #f7f3ff;
-    margin-top: -45%;
+    margin-top: -30%;
     margin-left: 25%;
     height: 6vh;
 }
@@ -123,7 +123,7 @@ form input {
     background: transparent;
     border: 2px solid transparent; 
     outline: none;
-    font-size: 16px;
+    font-size: 13px;
     margin-top: -5%;
     color: rgba(39, 33, 66, 0.4) !important;
     font-weight: 500 !important;
@@ -131,14 +131,14 @@ form input {
 }
 
 form input::placeholder {
-    font-size: 16px;
+    font-size: 13px;
     color: rgba(39, 33, 66, 0.4) !important;
     font-weight: 500 !important;
     font-family: "Rubik";
 }
 
 form button {
-    font-size: 22px;
+    font-size: 14px;
     border: 2px solid #f7f3ff;
     background-color: #f7f3ff;
     color: rgba(39, 33, 66, 0.4);
@@ -154,7 +154,7 @@ form button {
     margin-left: 15rem;
     flex-wrap: wrap;
     height: 60vh;
-    width: 200%;
+    width: 210%;
     padding: 40px;
     background-color: #eaeaf4;
     border-radius: 50px;
